@@ -26,5 +26,5 @@ dependencies {
 }
 
 springBoot {
-    mainClass = 'com.github.taller.springboot.MainPolindrome'
+    mainClass = 'com.github.taller.springboot.MainAnagram'
 }
